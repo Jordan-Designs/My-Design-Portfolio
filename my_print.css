@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+.eight .columns .nav {
+	display: none;
+}
+h1 {
+	font-size: 30pt !important;
+	text-align: right;
+}
+
+a.button .button-primary {
+	display: none;
+}
+
+.row .action {
+	display: none;
+}
