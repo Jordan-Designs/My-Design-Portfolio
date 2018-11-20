@@ -5,7 +5,8 @@
 }
 h1 {
 	font-size: 30pt !important;
-	text-align: right;
+	text-align: left;
+	border-bottom: thin #B87911;
 }
 
 a.button .button-primary {
@@ -14,4 +15,38 @@ a.button .button-primary {
 
 .row .action {
 	display: none;
+}
+
+.button {
+	display: none;
+}
+
+.column1 {
+	display: none;
+}
+
+.column2 {
+	display: none;
+}
+
+.column3 {
+	display: none;
+}
+
+.first {
+	width: 100%;
+}
+
+form {
+	display: none;
+}
+
+.eigh2 .columns2 {
+	width: 100%;
+}
+
+p.footer {
+	width: 100%;
+	padding-top: 15px;
+	padding-left: 0px;
 }
